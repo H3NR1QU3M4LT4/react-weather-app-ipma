@@ -1,0 +1,31 @@
+.Toastify__toast--success {
+  color: #4caf50;
+  background-color: white;
+  font-weight: 600;
+  width: 260px;
+  margin-left: 55px;
+}
+
+.Toastify__toast--warning {
+  color: #ff9800;
+  background-color: white;
+  font-weight: 600;
+  width: 260px;
+  margin-left: 55px;
+}
+
+.Toastify__toast--error {
+  color: #f44336;
+  background-color: white;
+  font-weight: 600;
+  width: 260px;
+  margin-left: 55px;
+}
+
+.Toastify__close-button {
+  color: black;
+}
+
+.Toastify__progress-bar {
+  background-color: #9e9e9e;
+}
